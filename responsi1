@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Map</title>
+</head>
+<body>
+    <iframe src="https://gadj579892601bfc.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=64a6dd3c1e884eb5bfcb35e9c8b933d2" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+</body>
+</html>
